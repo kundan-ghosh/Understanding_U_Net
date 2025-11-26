@@ -2,11 +2,11 @@
 
 [![U-Net Architecture](U_Net_architecture.png)](https://arxiv.org/abs/1505.04597)
 
-👉 **Official Paper:** https://arxiv.org/abs/1505.04597
+ **Official Paper:** https://arxiv.org/abs/1505.04597
 
 ---
 
-## 🚀 What is U-Net?
+##  What is U-Net?
 
 **U-Net** is a powerful deep learning architecture designed for **precise image segmentation**, especially in **biomedical imaging**. It enables models to understand *exactly where objects are* in an image — down to the pixel level.
 
@@ -18,20 +18,20 @@ This unique structure allows the network to achieve **high accuracy even with li
 
 ---
 
-## 🧩 Why is U-Net so Powerful?
+##  Why is U-Net so Powerful?
 
 U-Net stands out because of:
 
-✅ **Skip connections** that preserve spatial information  
-✅ **Pixel-level prediction** for high-precision segmentation  
-✅ Excellent performance with **small datasets**  
-✅ Widely used in **medical, satellite, and industrial imaging**
+- **Skip connections** that preserve spatial information  
+- **Pixel-level prediction** for high-precision segmentation  
+- Excellent performance with **small datasets**  
+- Widely used in **medical, satellite, and industrial imaging**
 
 It has become the **gold standard** for segmentation tasks in research and industry.
 
 ---
 
-## 🏗️ Architecture Overview
+##  Architecture Overview
 
 The U-Net architecture consists of:
 
@@ -49,18 +49,18 @@ The U-Net architecture consists of:
 
 ---
 
-## 📌 Applications
+##  Applications
 
 U-Net is widely used in:
 
-- 🩺 Medical image segmentation (organs, tumors, cells)
-- 🛰️ Satellite imagery analysis
-- 🏭 Industrial defect detection
-- 🧬 Biological microscopy
+-  Medical image segmentation (organs, tumors, cells)
+-  Satellite imagery analysis
+-  Industrial defect detection
+-  Biological microscopy
 
 ---
 
-## 📄 Reference
+## � Reference
 
 > Ronneberger, Olaf, Philipp Fischer, and Thomas Brox.  
 > **U-Net: Convolutional Networks for Biomedical Image Segmentation (2015)**  
