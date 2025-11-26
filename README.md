@@ -1,4 +1,4 @@
-# 🧠 U-Net: Convolutional Networks for Biomedical Image Segmentation
+#  U-Net: Convolutional Networks for Biomedical Image Segmentation
 
 [![U-Net Architecture](U_Net_architecture.png)](https://arxiv.org/abs/1505.04597)
 
@@ -60,14 +60,10 @@ U-Net is widely used in:
 
 ---
 
-## � Reference
+##  Reference
 
 > Ronneberger, Olaf, Philipp Fischer, and Thomas Brox.  
 > **U-Net: Convolutional Networks for Biomedical Image Segmentation (2015)**  
 > https://arxiv.org/abs/1505.04597
 
 ---
-
-## ⭐ If you found this useful
-
-Feel free to star the repository and share it with others!
