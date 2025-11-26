@@ -1,5 +1,6 @@
 # 🧠 U-Net: Convolutional Networks for Biomedical Image Segmentation
 
+[![U-Net Architecture](U_Net_ architecture.png)]
 
 👉 **Official Paper:** https://arxiv.org/abs/1505.04597
 
